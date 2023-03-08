@@ -1,3 +1,3 @@
 name: giluis  
-interests: solving problems, neovim  
+interests: Rust, Neovim, optimiazation
 contactme: lupevibogil@gmail.com  
