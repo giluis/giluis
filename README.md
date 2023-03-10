@@ -1,3 +1,3 @@
 name: giluis  
-interests: Rust, Neovim, optimiazation
+interests: Rust, [CodeWars](https://www.codewars.com/users/perplexico), optimiazation
 contactme: lupevibogil@gmail.com  
